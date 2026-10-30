@@ -43,57 +43,15 @@ The **Predictive Insight Engine** analyzes real estate data to understand the fa
 
 ## 📊 Results & Visualizations
 
-Add your generated charts and output images to the `images/` folder in this repository. Replace each placeholder filename below with the exact image filename you upload.
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a87ee443-0360-40f9-8363-bad70995dfba" />
 
-### 1. Feature Correlation Heatmap
+<img width="813" height="520" alt="image" src="https://github.com/user-attachments/assets/db244759-06d5-4ef8-a283-a4fc792b36f8" />
 
-<!-- PLACEHOLDER: Save your correlation heatmap as images/correlation_heatmap.png -->
+<img width="844" height="547" alt="image" src="https://github.com/user-attachments/assets/0aded793-fb68-4746-84b7-3a6c8a592fd5" />
 
-![Feature Correlation Heatmap](images/correlation_heatmap.png)
+<img width="349" height="77" alt="image" src="https://github.com/user-attachments/assets/338c7e81-7191-4779-a59e-f1ea8b36a670" />
 
-### 2. Feature Distributions
 
-<!-- PLACEHOLDER: Save your histogram chart as images/feature_distributions.png -->
-
-![Feature Distributions](images/feature_distributions.png)
-
-### 3. Area vs House Price
-
-<!-- PLACEHOLDER: Save your scatter plot as images/area_vs_house_price.png -->
-
-![Area vs House Price](images/area_vs_house_price.png)
-
-### 4. Simple Linear Regression
-
-<!-- PLACEHOLDER: Save your regression line chart as images/simple_linear_regression.png -->
-
-![Simple Linear Regression](images/simple_linear_regression.png)
-
-### 5. Actual vs Predicted House Prices
-
-<!-- PLACEHOLDER: Save your actual vs predicted chart as images/actual_vs_predicted.png -->
-
-![Actual vs Predicted House Prices](images/actual_vs_predicted.png)
-
-### 6. Residual Analysis
-
-<!-- PLACEHOLDER: Save your residual plot as images/residual_analysis.png -->
-
-![Residual Analysis](images/residual_analysis.png)
-
-### 7. Model Performance Comparison
-
-<!-- PLACEHOLDER: Save your model comparison chart as images/model_comparison.png -->
-
-![Model Performance Comparison](images/model_comparison.png)
-
-### 8. Gradient Descent Loss Curves
-
-<!-- PLACEHOLDER: Save your loss curve chart as images/gradient_descent_loss.png -->
-
-![Gradient Descent Loss Curves](images/gradient_descent_loss.png)
-
-> **Note:** These are image placeholders. The charts will appear on GitHub after you upload the corresponding PNG files into the `images` folder. If you do not create a particular chart, remove its image section.
 
 ## 📏 Evaluation Metrics
 
