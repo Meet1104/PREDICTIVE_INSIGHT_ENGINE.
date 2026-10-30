@@ -49,7 +49,7 @@ The **Predictive Insight Engine** analyzes real estate data to understand the fa
 
 <img width="844" height="547" alt="image" src="https://github.com/user-attachments/assets/0aded793-fb68-4746-84b7-3a6c8a592fd5" />
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/338c7e81-7191-4779-a59e-f1ea8b36a670" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/338c7e81-7191-4779-a59e-f1ea8b36a670" />
 
 
 
